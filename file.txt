@@ -1,1 +1,2 @@
 “Learning git rebase”
+"Editing file.txt on remote"
