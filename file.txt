@@ -1,2 +1,6 @@
 “Learning git rebase”
+
 "Editing file.txt on remote"
+
+Editing local copy
+
